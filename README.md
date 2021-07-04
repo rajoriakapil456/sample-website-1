@@ -1,1 +1,1 @@
-# sample-website-1
+Add all the files in a same folder!!
